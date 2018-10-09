@@ -1,0 +1,12 @@
+body {
+  background-color: #c1b6b6;
+}
+
+h1 {
+  padding-bottom: 5rem;
+}
+
+#carouselIndicators {
+  width: 40rem;
+  padding-top: 6rem;
+}
